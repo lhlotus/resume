@@ -143,4 +143,4 @@ Bachelor’s Degree in Computer Science
 ## Languages
 
 - Chinese: Native  
-- English: Professional working proficiency (meeting communication & technical documentation)
+- English: Professional working proficiency
