@@ -1,4 +1,4 @@
-# Lianhong Huang | Java Developer / Data Engineer
+# Huang Lianhong | Senior Backend Engineer (Java) | Data Engineer
 
 📧 lhong_lotus@yeah.net  
 📱 +86 13775627150  
@@ -7,113 +7,140 @@
 
 ## Profile
 
-Senior software engineer with 16 years of development experience and 5 years in DevOps. Specialized in Java technology stack and distributed system architecture.  
-Experienced in data warehouse design and large-scale data processing using Hive, with strong knowledge of ODS/DWD/DWS layering models.  
-Proven ability to design high-concurrency, high-availability systems and deliver end-to-end solutions for complex business scenarios.  
+Senior software engineer with 16+ years of experience in backend development and data engineering, primarily using Java-based technologies. Experienced across banking, insurance, logistics, and enterprise-scale systems, with full software development lifecycle ownership (requirement analysis → development → integration → production support).
+
+Strong hands-on experience in building backend services using Java (Spring Boot), system integration using messaging middleware (RabbitMQ / IBM MQ), and data warehouse development using Hive with layered architecture (ODS / DWD / DWS).
+
+Skilled in delivering stable, maintainable enterprise systems and supporting business-critical applications in production environments.
 
 ---
 
 ## Core Technical Skills
 
-- **Backend**: Java, Spring Boot, Spring MVC, Hibernate, MyBatis  
-- **Architecture**: Microservices, Distributed Systems, High-Concurrency Design  
-- **Data**: Hive, Data Warehouse Modeling (ODS / DWD / DWS)  
-- **Database**: Oracle, DB2, MySQL, SQL Server, Sybase  
-- **Middleware**: RabbitMQ, IBM MQ, Redis  
-- **DevOps**: Docker, Kubernetes, Jenkins, CI/CD  
-- **Frontend**: HTML5, Bootstrap, JavaScript, jQuery  
-- **System**: Linux / Unix, Shell  
+### Backend Development
+- Java
+- Spring Boot / Spring MVC
+- MyBatis / Hibernate
+- RESTful API design & development  
+
+### Data Engineering
+- Hive
+- Data Warehouse Modeling (ODS / DWD / DWS)
+- ETL data processing & analytics  
+
+### Messaging & Integration
+- RabbitMQ
+- IBM MQ
+- Redis  
+
+### Database
+- MySQL
+- Oracle
+- DB2 / SQL Server (project experience)
+
+### DevOps / Engineering
+- Docker
+- Kubernetes
+- Jenkins / CI/CD
+- Linux / Unix / Shell scripting  
 
 ---
 
 ## Work Experience
 
-### China Electronics Financial Information Service Co., Ltd. | Data Engineer  
+---
+
+### China Everbright Credit (中电金信) | Data Engineer
 📍 Shanghai  
-📅 Jan 2025 – Present  
+📅 2025.01 – Present  
 
 **Project: Banking Loan Data Analytics Platform**
 
-- Designed and built data warehouse using Hive (ODS / DWD / DWS), including data cleansing and modeling  
-- Developed core business metrics such as loan balance, disbursement, delinquency rate, and NPL ratio  
-- Performed multi-dimensional analysis across customer, region, and product levels  
-- Implemented full lifecycle tracking of loan processes (application → approval → disbursement → repayment)  
-- Provided data support for risk control and business decision-making  
+- Built enterprise-level data warehouse using Hive, implementing ODS / DWD / DWS layered architecture  
+- Designed and implemented core lending KPIs (loan amount, outstanding balance, delinquency rate, NPL ratio)  
+- Delivered multi-dimensional analysis across customer, region, and product dimensions  
+- Implemented full loan lifecycle data tracking (application → approval → disbursement → repayment)  
+- Provided data support for risk control and business decision-making teams  
 
 ---
 
-### Paradigm Technology | Java Developer  
+### Paradigm Technology | Java Backend Engineer
 📍 Remote  
-📅 Nov 2020 – Jan 2025  
+📅 2020.11 – 2025.01  
 
-**Project: Smart Label Solution Platform**
+**Project: Smart Label & Warehouse Management Platform**
 
-- Designed and developed backend services for RF scanning devices  
-- Built microservices architecture using Spring Boot with RabbitMQ for service communication  
-- Improved system performance using Redis caching  
-- Implemented Docker-based deployment and CI/CD pipelines  
-- Contributed to system architecture supporting large-scale warehouse and logistics operations  
-
----
-
-### IBM | Java Developer  
-📍 Shanghai  
-📅 May 2016 – Nov 2020  
-
-**Project: Group STP (Insurance Policy System)**
-
-- Developed RESTful microservices using Spring Boot  
-- Implemented core modules including user management, authorization, and order processing  
-- Automated operational tasks (notification letters, reporting) via scripting  
-- Wrote unit tests using JUnit to ensure system reliability  
-
-**Project: PAWeb (Policy Administration System)**
-
-- Participated in full SDLC (requirements, development, delivery)  
-- Collaborated with clients to analyze requirements and define solutions  
-- Optimized database stored procedures for performance improvement  
-- Integrated systems using IBM MQ for asynchronous communication  
+- Developed backend services for RF scanning and warehouse label management system using Spring Boot  
+- Implemented asynchronous processing and service decoupling using RabbitMQ  
+- Optimized system performance using Redis caching under high warehouse traffic scenarios  
+- Participated in system design and supported logistics business implementation  
+- Contributed to Docker-based deployment and CI/CD pipeline improvements  
 
 ---
 
-### HP | Java Developer / Team Lead  
+### IBM | Java Backend Engineer
 📍 Shanghai  
-📅 May 2012 – May 2016  
+📅 2016.05 – 2020.11  
 
-**Project: Vista (Data Analytics Platform)**
+**Project 1: Group STP (Insurance Policy System)**
 
-- Developed data matching and analytics system  
-- Led a team of 5 developers, managing task allocation and delivery  
-- Built ETL pipelines using PowerCenter and Tidal  
-
-**Project: MDCP (User Information Management System)**
-
-- Developed core modules using Spring MVC and Hibernate  
-- Participated in full system design and development lifecycle  
-- Implemented automated build and deployment using Hudson  
+- Developed backend services using Spring Boot for policy and user management modules  
+- Implemented RESTful APIs for order and workflow processing  
+- Developed automation scripts to improve reporting and notification efficiency  
+- Wrote JUnit test cases to improve system stability and regression coverage  
 
 ---
 
-### Infosys | Java Developer  
+**Project 2: PAWeb (Policy Administration System)**
+
+- Participated in full SDLC (requirement analysis → development → deployment)  
+- Collaborated with business stakeholders to define technical solutions  
+- Optimized database queries and stored procedures to improve system performance  
+- Implemented cross-system asynchronous communication using IBM MQ  
+
+---
+
+### HP | Java Developer / Team Lead
 📍 Shanghai  
-📅 Mar 2010 – May 2012  
+📅 2012.05 – 2016.05  
+
+**Project 1: Vista (Data Analytics Platform)**
+
+- Developed data matching and analytics system modules  
+- Led a 5-member development team for task allocation and delivery  
+- Designed ETL workflows using PowerCenter and Tidal  
+
+---
+
+**Project 2: MDCP (Customer Information Management System)**
+
+- Developed backend services using Spring MVC and Hibernate  
+- Participated in system design and full development lifecycle delivery  
+- Implemented CI/CD automation using Hudson  
+
+---
+
+### Infosys | Java Developer
+📍 Shanghai  
+📅 2010.03 – 2012.05  
 
 **Project: Walmart Logistics System**
 
-- Contributed to logistics system development (transportation, scheduling, tracking)  
-- Developed business modules using Struts2 and J2EE architecture  
-- Implemented database interactions using JDBC  
+- Developed logistics modules including transportation, scheduling, and tracking  
+- Built backend services using Struts2 + J2EE architecture  
+- Implemented database operations using JDBC  
 
 ---
 
-## Education & Credentials
+## Education
 
-**Bachelor’s Degree in Computer Science**  
-Nanjing Tech University, 2006 – 2010  
+Nanjing University of Technology  
+Bachelor’s Degree in Computer Science  
+2006 – 2010  
 
 ---
 
 ## Languages
 
-- Chinese (Native)  
-- English (Professional Working Proficiency)  
+- Chinese: Native  
+- English: Professional working proficiency (meeting communication & technical documentation)
