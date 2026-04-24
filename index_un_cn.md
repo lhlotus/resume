@@ -1,32 +1,54 @@
-# 黄莲红 | Java Developer / 数据工程师
+# 黄莲红 | 高级后端工程师（Java）| 数据工程师
 
 📧 lhong_lotus@yeah.net  
 📱 +86 13775627150  
 
 ---
 
-## Profile
+## 个人简介
 
-拥有16年软件开发经验及5年DevOps经验，专注于Java技术栈与分布式系统架构设计。  
-具备数据仓库建设与大规模数据处理能力，熟悉Hive及ODS/DWD/DWS分层模型。  
-擅长高并发、高可用系统设计，具备完整系统开发生命周期经验，能够支撑复杂业务系统落地。  
+拥有16年以上软件开发经验，主要专注于Java后端开发与数据工程方向。曾在银行、保险、物流及企业级系统领域工作，具备完整的软件开发生命周期经验（需求分析 → 开发实现 → 系统集成 → 上线支持）。
 
----
+熟悉基于Java（Spring Boot）的后端服务开发与系统集成（RabbitMQ / IBM MQ），具备数据仓库建设经验，能够基于Hive构建ODS / DWD / DWS分层数据模型并支持业务分析需求。
 
-## Core Technical Skills
-
-- **Backend**: Java, Spring Boot, Spring MVC, Hibernate, MyBatis  
-- **Architecture**: 微服务架构、分布式系统、高并发处理  
-- **Data**: Hive, 数据仓库建模（ODS / DWD / DWS）  
-- **Database**: Oracle, DB2, MySQL, SQL Server, Sybase  
-- **Middleware**: RabbitMQ, IBM MQ, Redis  
-- **DevOps**: Docker, Kubernetes, Jenkins, CI/CD  
-- **Frontend**: HTML5, Bootstrap, JavaScript, jQuery  
-- **System**: Linux / Unix, Shell  
+具备扎实的工程实践能力，能够独立承担模块开发、系统优化与生产问题支持工作。
 
 ---
 
-## Work Experience
+## 核心技术栈
+
+### 后端开发
+- Java
+- Spring Boot / Spring MVC
+- MyBatis / Hibernate
+- RESTful API 设计与开发  
+
+### 数据工程
+- Hive
+- 数据仓库建模（ODS / DWD / DWS）
+- ETL数据处理与分析  
+
+### 消息与系统集成
+- RabbitMQ
+- IBM MQ
+- Redis  
+
+### 数据库
+- MySQL
+- Oracle
+- DB2 / SQL Server（项目经验）
+
+### 工程化 / DevOps
+- Docker
+- Kubernetes
+- Jenkins / CI/CD
+- Linux / Unix / Shell  
+
+---
+
+## 工作经历
+
+---
 
 ### 中电金信 | 数据工程师
 📍 上海  
@@ -34,90 +56,91 @@
 
 **项目：银行贷款数据分析与统计平台**
 
-- 基于Hive构建数据仓库（ODS / DWD / DWS），完成数据清洗、建模与分层设计  
-- 设计并实现贷款核心指标（放款金额、贷款余额、逾期率、不良率等）  
-- 按客户、地区、产品等维度进行多维数据分析  
-- 实现贷款全生命周期（申请→审批→放款→还款）数据跟踪  
-- 支持风控与业务团队决策，提升数据驱动能力  
+- 基于Hive构建企业级数据仓库，完成ODS / DWD / DWS分层设计与实现  
+- 设计并实现贷款核心指标体系（放款金额、贷款余额、逾期率、不良率等）  
+- 支持客户、地区、产品等多维度数据分析与统计  
+- 实现贷款全生命周期数据追踪（申请 → 审批 → 放款 → 还款）  
+- 为风控及业务团队提供数据支持，提升数据分析与决策效率  
 
 ---
 
-### Paradigm Technology | Java Developer
+### Paradigm Technology | Java开发工程师
 📍 Remote  
 📅 2020.11 – 2025.01  
 
-**项目：Smart Label Solution Platform**
+**项目：智能标签与仓储管理系统**
 
-- 负责RF扫码设备后台服务系统设计与开发  
-- 基于Spring Boot构建微服务架构，通过RabbitMQ实现服务解耦  
-- 使用Redis进行缓存优化，提升系统性能与响应效率  
-- 使用Docker进行系统部署，并推动CI/CD流程落地  
-- 参与系统架构设计，支持中大型仓储及物流场景  
+- 负责RF扫码设备与仓储标签系统后端服务开发（Spring Boot）  
+- 使用RabbitMQ实现系统异步处理与服务解耦  
+- 使用Redis优化缓存机制，提高高并发场景下系统响应性能  
+- 参与系统方案设计，支持仓储与物流业务流程落地  
+- 使用Docker进行服务部署，并参与CI/CD流程优化  
 
 ---
 
-### IBM | Java Developer
+### IBM | Java开发工程师
 📍 上海  
 📅 2016.05 – 2020.11  
 
-**项目：Group STP（保险保单系统）**
+**项目一：Group STP（保险保单系统）**
 
-- 基于Spring Boot开发RESTful微服务系统  
-- 实现用户管理、权限管理、订单生成等核心功能  
-- 编写自动化脚本（通知信、订单列表等）提升运营效率  
-- 编写JUnit测试用例，保障系统稳定性  
-
-**项目：PAWeb（保单管理系统）**
-
-- 参与项目全生命周期（需求分析→开发→交付）  
-- 与客户沟通需求并制定开发方案  
-- 优化数据库存储过程，提升系统性能  
-- 使用IBM MQ实现跨系统异步通信  
+- 使用Spring Boot开发后端服务，支持保单与用户管理模块  
+- 实现RESTful API，支持订单及业务流程处理  
+- 编写自动化脚本，提高通知与报表处理效率  
+- 使用JUnit进行单元测试，提高系统稳定性  
 
 ---
 
-### HP | Java Developer / Team Lead
+**项目二：PAWeb（保单管理系统）**
+
+- 参与系统全生命周期开发（需求分析 → 开发 → 上线交付）  
+- 与业务方沟通需求并制定技术实现方案  
+- 优化数据库查询及存储过程，提高系统性能  
+- 使用IBM MQ实现跨系统异步通信与解耦  
+
+---
+
+### HP | Java开发工程师 / Team Lead
 📍 上海  
 📅 2012.05 – 2016.05  
 
-**项目：Vista（数据分析平台）**
+**项目一：Vista（数据分析平台）**
 
 - 负责数据匹配与分析系统开发  
-- 管理5人开发团队，进行任务分配与进度控制  
-- 使用PowerCenter与Tidal实现ETL数据处理流程  
-
-**项目：MDCP（用户信息管理系统）**
-
-- 基于Spring MVC与Hibernate开发核心业务功能  
-- 参与系统设计与开发全流程  
-- 使用Hudson实现自动化构建与部署  
+- 带领5人开发团队进行模块开发与任务分配  
+- 使用PowerCenter与Tidal设计ETL数据处理流程  
 
 ---
 
-### Infosys | Java Developer
+**项目二：MDCP（用户信息管理系统）**
+
+- 基于Spring MVC与Hibernate开发核心业务功能  
+- 参与系统设计与全流程开发交付  
+- 使用Hudson实现持续集成与自动化构建  
+
+---
+
+### Infosys | Java开发工程师
 📍 上海  
 📅 2010.03 – 2012.05  
 
-**项目：Walmart Logistics System**
+**项目：沃尔玛物流系统**
 
-- 参与沃尔玛物流系统开发（运输、调度、跟踪模块）  
-- 基于Struts2 + J2EE架构开发业务功能  
-- 使用JDBC实现数据库交互  
-
----
-
-## Education & Credentials
-
-- 本科学士 | 计算机科学与技术  
-- 南京工业大学  
-- 2006 – 2010  
+- 参与物流系统开发（运输、调度、跟踪模块）  
+- 基于Struts2 + J2EE架构实现后端业务功能  
+- 使用JDBC进行数据库交互开发  
 
 ---
 
-## Languages
+## 教育背景
 
-- Chinese (母语)  
-- English (工作沟通)  
+南京工业大学  
+计算机科学与技术 本科  
+2006 – 2010  
 
+---
 
+## 语言能力
 
+- 中文：母语  
+- 英文：工作沟通
